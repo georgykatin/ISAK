@@ -50,7 +50,7 @@
 
 Откройте файл /etc/passwd, используя команду more /etc/passwd. Найдите запись с данными вашего пользователя. Проанализируйте все поля записи и опишите их назначение. Используйте справку по файлу (man 5 passwd) для ознакомления со значением всех полей.
 
-Данные пользователя : root:x:0:0:root:/root:/bin/bash  (имя пользователя :пароль :userid : groupid : комментарий : домашняя директория)
+Данные пользователя : root: x :0:0:root:/root:/bin/bash  (имя пользователя :пароль :userid : groupid : комментарий : домашняя директория)
 
 ![11](https://github.com/georgykatin/screenshots/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202%205.png)
 
@@ -60,5 +60,7 @@
 
 ![12](https://github.com/georgykatin/screenshots/blob/main/%D1%84%D0%B8%D0%BD%D0%B3%D0%B5%D1%80.png)
 
+Проанализируйте с использованием команды history содержание лабораторной работы.
 
+![13](https://github.com/georgykatin/screenshots/blob/main/history.png)
 
