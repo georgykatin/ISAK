@@ -70,7 +70,11 @@
 
 4.Договоритесь с соседним пользователем о создании общего каталога. Настройте списки контроля доступа по умолчанию для каталога shared так, чтобы ваш сосед мог создавать новые файлы в нем и иметь права на их чтение и запись.
 
+![21](https://github.com/georgykatin/screenshots/blob/main/3.png)
+
 5.Попросите соседа создать файл file1.txt и записать в него строку «This text is created by user1». Откройте созданный им файл и допишите в него вторую строку «This text is added by user2»
+
+![22](https://github.com/georgykatin/screenshots/blob/main/331.png)
 
 
 
