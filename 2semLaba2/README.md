@@ -31,4 +31,47 @@
 
 Задание 2 
 
+1.Создайте каталоги ~/html и ~/archive
+
+![5](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%201%201%20.png)
+
+2.Выведите на экран содержимое каталога /usr/share. Ограничьте длину результата 5 строками. Запишите результат работы команды в файл index.html в каталоге с сайтом.
+
+![7](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%202.png)
+
+3.Проверьте количество строк в файле index.html. Выведите на экран содержимое файла index.html.
+
+![8](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%203.png)
+
+4.Переименуйте каталог html в html_public.
+
+![9](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%204.png)
+
+5.Создайте копию файла index.html в ~/archive
+
+![10](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%206.png)
+
+6.Выведите список файлов в домашнем каталоге, отсортировав их в порядке, обратном алфавитному. Сохраните вывод в файл ~/html_public/home.html.
+
+![11](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%207.png)
+
+7.Скопируйте в домашний каталог файл home.html.
+
+![12](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%208.png)
+
+8.Создайте символьную ссылку к файлу index.html с именем ~/html_public/link_s.html и жесткую ссылку к этому же файлу с именем ~/html_public/link_h.html.
+
+![13](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%2088.png)
+
+9.Удалите файл index.html так, чтобы ссылка link_s.html оказалась «сломанной». Попробуйте открыть содержимое файлов link_s.html и link_h.html.
+
+![14](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%209%201.png)
+
+![15](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%209%202.png)
+
+![16](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%209%203.png)
+
+10.Определите место, занимаемое в системе вашим сайтом (каталогами html_public и archive).
+
+![17](https://github.com/georgykatin/screenshots/blob/main/%D0%BB%D0%B0%D0%B1%D0%B0%202%2010.png)
 
